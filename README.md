@@ -164,7 +164,7 @@ PersistentKeepalive = 20
   
 Этот файл открываем в Wireguard клиенте (есть для всех операционных систем, в том числе мобильных) — и жмем в клиенте кнопку подключения.  
 
-[![imageup.ru](https://imageup.ru/img285/4012725/chrome_cupn7umhsa.jpg)](https://imageup.ru/img285/4012725/chrome_cupn7umhsa.jpg.html)
+[![imageup.ru](https://imageup.ru/img285/4012725/chrome_cupn7umhsa.jpg)]
 
 
 
